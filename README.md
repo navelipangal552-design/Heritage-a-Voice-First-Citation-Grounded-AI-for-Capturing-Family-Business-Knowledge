@@ -40,11 +40,16 @@ Teaching layer: Converts verified records into short lessons, scenario questions
 
 Existing tools are either generic note-takers (transcribe and summarize) or enterprise knowledge-management systems built for typed documents in English. Our differentiators:
 
-1. Active elicitation, not passive recording: the AI interviews and detects gaps.
-2. Capturing rationale, not only facts: decisions are stored with their reasons.
-3. Evidence-bound answers: every output links to the speaker’s own recording, with abstention when unsure.
-4. Elder-in-the-loop correction as a core design feature.
-5. Designed for code-mixed regional speech and family-business context, rather than corporate English.
+Active Knowledge Elicitation: AI actively interviews business owners, asks follow-up questions, and identifies missing knowledge instead of simply recording conversations.
+
+Rationale-Based Knowledge Capture: Preserves not only business facts and decisions but also the reasoning behind them.
+
+Evidence-Grounded Answers: Links AI-generated answers to original audio recordings and timestamps, with the ability to abstain when evidence is insufficient.
+
+Elder-in-the-Loop Correction: Allows experienced business owners to review, correct, and verify extracted knowledge.
+
+Regional Language Support: Designed for Marathi, Hindi, English, and code-mixed speech, focusing on family-business needs rather than corporate English.
+
 
 6. Evaluation Plan
 
@@ -65,6 +70,7 @@ Multilingual Retrieval Testing: Evaluate search accuracy across different langua
 User Acceptance Testing: Collect feedback from business owners and successors.
 
 Knowledge Transfer Testing: Evaluate how effectively successors learn and retrieve business knowledge.
+
 
 7. Risk
 

@@ -48,24 +48,40 @@ Existing tools are either generic note-takers (transcribe and summarize) or ente
 
 6. Evaluation Plan
 
-1. Speech Recognition Testing: Measure transcription accuracy for Marathi, Hindi and code-mixed speech.
-2. Knowledge Extraction Testing: Check whether important facts, processes and decisions are extracted correctly.
-3. Rationale Accuracy: Verify whether the system captures the actual reasons behind decisions.
-4. Follow-up Question Evaluation: Check whether AI identifies missing information and asks relevant questions.
-5. Citation Verification: Ensure every answer links to the correct audio recording and timestamp.
-6. Hallucination Testing: Test whether the system avoids unsupported answers and abstains when evidence is insufficient.
-7. Multilingual Retrieval Testing: Evaluate search accuracy across different languages.
-8. User Acceptance Testing: Collect feedback from business owners and successors.
-9. Knowledge Transfer Testing: Check whether successors can learn and answer business-related questions using stored knowledge.
+Speech Recognition Testing: Evaluate transcription accuracy for Marathi, Hindi, and code-mixed speech.
+
+Knowledge Extraction Testing: Verify the accuracy of extracted facts, processes, and decisions.
+
+Rationale Accuracy: Check whether the system correctly captures the reasoning behind business decisions.
+
+Follow-up Question Evaluation: Assess whether AI identifies knowledge gaps and asks relevant questions.
+
+Citation Verification: Ensure answers link to the correct audio recordings and timestamps.
+
+Hallucination Testing: Verify that AI avoids unsupported answers and abstains when evidence is insufficient.
+
+Multilingual Retrieval Testing: Evaluate search accuracy across different languages.
+
+User Acceptance Testing: Collect feedback from business owners and successors.
+
+Knowledge Transfer Testing: Evaluate how effectively successors learn and retrieve business knowledge.
 
 7. Risk
 
-> Speech Recognition Errors: Difficulty understanding Marathi-Hindi-English code-mixed speech and trade-specific terms.
-> Knowledge Misinterpretation: AI may misunderstand the expert's intended meaning or reasoning.
-> Hallucinations: AI may generate unsupported business advice or answers.
-> Incomplete Knowledge Capture: Important details may remain undiscovered during interviews.
-> Data Privacy: Sensitive family and business information may be exposed.
-> Elderly User Adoption: Older business owners may find the interface difficult to use.
-> Language Limitations: Regional accents and low-resource languages may reduce accuracy.
-> Source Reliability: Transcripts or extracted knowledge may not accurately reflect the original recording.
-> Technical Dependency: Speech and AI services may require internet access and incur costs.
+Speech Recognition Errors: Difficulty understanding code-mixed speech, regional accents, and trade-specific terms.
+
+Knowledge Misinterpretation: AI may misunderstand the expert's intended meaning or reasoning.
+
+Hallucinations: AI may generate unsupported business advice or incorrect answers.
+
+Incomplete Knowledge Capture: Important details may remain undiscovered during interviews.
+
+Data Privacy: Sensitive family and business information may be exposed.
+
+Elderly User Adoption: Older business owners may find the interface difficult to use.
+
+Language Limitations: Low-resource languages and regional dialects may reduce accuracy.
+
+Source Reliability: Extracted knowledge may not accurately represent the original recording.
+
+Technical Dependency: External AI and speech services may require internet access and incur additional costs.

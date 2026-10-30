@@ -60,12 +60,12 @@ Existing tools are either generic note-takers (transcribe and summarize) or ente
 
 7. Risk
 
-1. Speech Recognition Errors: Difficulty understanding Marathi-Hindi-English code-mixed speech and trade-specific terms.
-2. Knowledge Misinterpretation: AI may misunderstand the expert's intended meaning or reasoning.
-3. Hallucinations: AI may generate unsupported business advice or answers.
-4. Incomplete Knowledge Capture: Important details may remain undiscovered during interviews.
-5. Data Privacy: Sensitive family and business information may be exposed.
-6. Elderly User Adoption: Older business owners may find the interface difficult to use.
-7. Language Limitations: Regional accents and low-resource languages may reduce accuracy.
-8. Source Reliability: Transcripts or extracted knowledge may not accurately reflect the original recording.
-9. Technical Dependency: Speech and AI services may require internet access and incur costs.
+> Speech Recognition Errors: Difficulty understanding Marathi-Hindi-English code-mixed speech and trade-specific terms.
+> Knowledge Misinterpretation: AI may misunderstand the expert's intended meaning or reasoning.
+> Hallucinations: AI may generate unsupported business advice or answers.
+> Incomplete Knowledge Capture: Important details may remain undiscovered during interviews.
+> Data Privacy: Sensitive family and business information may be exposed.
+> Elderly User Adoption: Older business owners may find the interface difficult to use.
+> Language Limitations: Regional accents and low-resource languages may reduce accuracy.
+> Source Reliability: Transcripts or extracted knowledge may not accurately reflect the original recording.
+> Technical Dependency: Speech and AI services may require internet access and incur costs.
